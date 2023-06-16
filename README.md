@@ -1,6 +1,6 @@
 # Excel Store Data Analysis Project
 
-Welcome to my Excel Store Data Analysis project! In this project, I have developed a comprehensive Excel spreadsheet to analyze and visualize store data. With over 20 years of coding experience, I have utilized advanced Excel functionalities to provide powerful insights into your store's performance.
+Welcome to my Excel Store Data Analysis project! In this project, I have developed a comprehensive Excel spreadsheet to analyze and visualize stored data. With 1 year of experience, I have utilized advanced Excel functionalities to provide powerful insights into your store's performance.
 
 ## Table of Contents
 1. [Introduction](#introduction)
